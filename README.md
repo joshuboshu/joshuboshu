@@ -6,7 +6,10 @@
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
-<p>Soy desarrollador backend con conocimientos en django, fastapi entre otras tecnologías. Soy estudiante de ingeniería electrónica con mucho interés en la programación..</p>
+<p>
+  - Soy un desarrollador backend con conocimientos en django, fastapi entre otras tecnologías. 
+  - Estudiante de ingeniería electrónica con mucho interés en la programación y el desarrollo web.
+</p>
 
 <br>
 
