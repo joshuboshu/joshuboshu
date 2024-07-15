@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Joshua</h1>
 <p align="left">
 <a href="https://www.tiktok.com/@joshuboshu" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://linkedin.com/in/joshuboshu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="https://linkedin.com/in/joshua-colman-lombardo-7b7393205/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:joshuboshu@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
