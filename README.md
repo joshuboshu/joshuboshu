@@ -1,9 +1,14 @@
 <h1 align="center">👋 Hola, soy Joshua</h1>
 <p align="left">
-<a href="https://www.tiktok.com/@joshuboshu" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://linkedin.com/in/joshua-colman-lombardo-7b7393205/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:joshuboshu@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.tiktok.com/@joshuboshu" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@joshuboshu" /></a>
+<a href="https://linkedin.com/in/joshua-colman-lombardo-7b7393205/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joshuboshu"/></a>
+<a href = "mailto:joshuboshu@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@joshuboshu"  /></a>
   </p>
+
+<br>
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuboshu" alt="joshuboshu" /> </p>
+
 <br>
 <h2>Sobre mi 😃</h2>
 <p>
@@ -23,6 +28,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,django,fastapi,py,pycharm,vscode,linux,ubuntu,mint,mysql,postgres,git)](https://skillicons.dev)
 
 </p>
+
+<br>
 
 
 <h2>GitHub :octocat:</h2>
