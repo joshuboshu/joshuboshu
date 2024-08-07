@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,next,c,cpp,django,fastapi,py,pycharm,vscode,linux,ubuntu,mint,mysql,postgres,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,next,c,cpp,django,fastapi,py,pycharm,vscode,linux,ubuntu,mint,mysql,postgres,mongodb,git,github)](https://skillicons.dev)
 
 </p>
 
