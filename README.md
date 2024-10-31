@@ -12,7 +12,7 @@
 <br>
 <h2>Sobre mi 😃</h2>
 <p>
-  Estudiante de ingeniería electrónica con conocimientos en programación y el desarrollo web.
+  Estudiante de ingeniería electrónica con conocimientos en programación y en desarrollo web.
 </p>
 
 
